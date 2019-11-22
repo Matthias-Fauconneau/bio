@@ -1,9 +1,10 @@
 [package]
 name = "bio"
-version = "0.1.0"
+version = "0.0.0"
 authors = ["Matthias Fauconneau <matthias.fauconneau@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-gb-io = "*"
-rust-spoa = "*"
+anyhow = ""
+gb-io = ""
+rust-spoa = ""
